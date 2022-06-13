@@ -1,2 +1,2 @@
 # hyperskill-cinema-room-manager
-Hyperskill Cinema Room Manager Project
+The java file contains the final code made for the Cinema Room Manager Project. Completed on 6/13/2022.
